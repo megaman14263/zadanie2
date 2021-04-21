@@ -1,0 +1,5 @@
+﻿  te.cpp
+C:\Users\yasim\source\repos\te\te\te.cpp(20,8): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\yasim\source\repos\te\te\te.cpp(26,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\yasim\source\repos\te\te\te.cpp(31,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  te.vcxproj -> C:\Users\yasim\source\repos\te\Debug\te.exe
